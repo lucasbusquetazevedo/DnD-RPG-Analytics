@@ -35,10 +35,9 @@ Fighter · Rogue · Barbarian · Monk · Ranger · Paladin · Wizard · Sorcerer
 
 ## Roadmap
 - [x] Semana 1 — Modelagem e banco de dados
-- [ ] Semana 2 — Simulação de combates com Python
+- [x] Semana 2 — Simulação de combates com Python
 - [ ] Semana 3 — Análise exploratória (dano médio, win rate, eficiência)
 - [ ] Semana 4 — Dashboard Power BI
 
 ## Fonte
-> *"Based on data from D&D Beyond and community surveys, the vast majority
-> of D&D 5e campaigns end or stall between levels 7 and 10."*
+ *"Dados do D&D Beyond e surveys de comunidades no forum oficial e reddit apontam que grande parte das campanhas de D&D 5e terminam entre os níveis 7-10."*
