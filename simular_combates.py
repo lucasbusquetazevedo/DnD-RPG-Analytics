@@ -5,6 +5,10 @@ import random
 conn = sqlite3.connect('dnd_analytics.db')
 cursor = conn.cursor()
 
+# Limpa combates simulados anteriores antes de rodar
+cursor.execute("DELETE FROM encounters WHERE encounter_id > 36")
+conn.commit()
+
 # Busca todos os personagens do banco
 cursor.execute("""
     SELECT 
