@@ -39,6 +39,9 @@ Por isso, esta análise foca exclusivamente na faixa **níveis 1–10**, tornand
 ### Correlação: Dano vs Win Rate
 ![Correlação Dano vs Win Rate](graficos/06_correlacao_dano_winrate.png)
 
+### Dashboard Power BI
+![Dashboard Power BI](graficos/07_dashboard_powerbi.png)
+
 ## Conclusões
 
 - **Barbarian** apresenta o maior saldo de dano e alta resistência graças ao HP elevado, confirmando sua força nos níveis iniciais.
@@ -66,7 +69,7 @@ Fighter · Rogue · Barbarian · Monk · Ranger · Paladin · Wizard · Sorcerer
 - [x] Semana 1 — Modelagem e banco de dados
 - [x] Semana 2 — Simulação de combates com Python
 - [x] Semana 3 — Análise exploratória (dano médio, win rate, eficiência)
-- [ ] Semana 4 — Dashboard Power BI
+- [x] Semana 4 — Dashboard Power BI
 
 ## Fonte
 *"Dados do D&D Beyond e surveys de comunidades no fórum oficial e Reddit apontam que grande parte das campanhas de D&D 5e terminam entre os níveis 7-10."*
